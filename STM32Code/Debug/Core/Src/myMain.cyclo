@@ -1,0 +1,13 @@
+../Core/Src/myMain.c:11:6:HAL_GPIO_EXTI_Callback	4
+../Core/Src/myMain.c:34:6:updateEncoderData	6
+../Core/Src/myMain.c:91:6:my_HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/myMain.c:101:6:detectXLimits	5
+../Core/Src/myMain.c:120:6:myInit	1
+../Core/Src/myMain.c:142:6:myLoopInternals	1
+../Core/Src/myMain.c:153:6:x_goLeft	2
+../Core/Src/myMain.c:160:6:x_goRight	2
+../Core/Src/myMain.c:167:6:x_stop	1
+../Core/Src/myMain.c:171:6:y_goUp	1
+../Core/Src/myMain.c:172:6:y_goDown	1
+../Core/Src/myMain.c:173:6:y_stop	1
+../Core/Src/myMain.c:185:6:commandReceived	8

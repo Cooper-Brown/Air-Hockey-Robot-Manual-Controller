@@ -1,0 +1,14 @@
+/*
+ * myMain.h
+ *
+ *  Created on: Apr 24, 2023
+ *      Author: 00coo
+ */
+
+#ifndef SRC_MYMAIN_H_
+#define SRC_MYMAIN_H_
+
+void myLoopInternals();
+
+
+#endif /* SRC_MYMAIN_H_ */
